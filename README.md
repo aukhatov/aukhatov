@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on CloudAlly Ltd [@allyinthecloud](https://github.com/allyinthecloud) as Lead Sofware Enginner
+- 🔭 I’m currently working at CloudAlly Ltd [@allyinthecloud](https://github.com/allyinthecloud) as Lead Sofware Enginner
 - 🌱 I’m currently learning Golang and some stuff around software design
 - 👯 I’m looking to collaborate on open source project
 - 🤔 I’m looking for help with ...
