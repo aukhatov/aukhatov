@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Artur Aukhatov
 
 <!--
 **aukhatov/aukhatov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on CloudAlly Ltd @allyinthecloud as Lead Sofware Enginner
+- 🌱 I’m currently learning Golang and some stuff around software design
+- 👯 I’m looking to collaborate on open source project
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about photogrpahy
+- 📫 How to reach me: aaukhatov@gmail.com, @aaukhatov on Telegram
+- ⚡ Fun fact: I have +K (Kell positive) blood. Don't worry please, it's not an illnes 😄 just rare antigen.
