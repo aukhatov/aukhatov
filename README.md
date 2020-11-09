@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Golang and some stuff around software design
 - 👯 I’m looking to collaborate on open source project
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about photogrpahy
+- 💬 Ask me about photography
 - 📫 How to reach me: aaukhatov@gmail.com, @aaukhatov on Telegram
 - ⚡ Fun fact: I have +K (Kell positive) blood. Don't worry please, it's not an illnes 😄 just rare antigen.
